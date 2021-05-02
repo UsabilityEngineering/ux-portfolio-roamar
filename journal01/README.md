@@ -1,11 +1,3 @@
-# Rowelle's User Experience Portfolio
-
-
-## UX Team Project
-
-
-## UX Journal
-
 #### Journal 1: Out With The Old, In With The New
 #### Rowelle Marino                   --- 07 March 2021
 
