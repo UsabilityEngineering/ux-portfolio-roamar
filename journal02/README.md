@@ -13,10 +13,17 @@ It confused me, because I had heard a lot of things about this website, and thou
 
 However, I decided to push on, because even though the design of the website was very basic, there still seemed to be a lot of content on the pages. The way I found the section where the Switch would be was through **satisficing**. Satisficing is finding the first option that might satisfy what you're searching for on the website. There were a lot of headings and sub-headings on the page, and everything was in blue text, indicating that almost everything on the page was clickable. This was overwhelming to me. As I quickly skimmed the website, I looked to the "For Sale" heading and found the category for video games.
 
-It brought me to a page that showed things related to video games, where there was a search bar. In the search bar, I typed "Nintendo Switch," and pressed enter. The results were underwhelming. There weren't many options, and half of them were just advertisements for things not pertaining to a Nintendo Switch.
+It brought me to a page that showed things related to video games, where there was a search bar. In the search bar, I typed "Nintendo Switch," and pressed enter. The results were underwhelming. There weren't many options, and half of them were just advertisements for things not pertaining to a Nintendo Switch (see image below). The other results were located in places that were not near my area, and would be inconvenient.
 
 ![image](https://user-images.githubusercontent.com/60239910/116825132-c36fb000-ab42-11eb-9cd9-6f450ee0bf61.png)
 
+At this point I realized that this website was not going to help me in my end goal of getting a Nintendo Switch. It possibly could have, but I was just about done with this website. It was neither **effective** nor **satisfying** to use. I could not get to my end goal without having to struggle through the unappealing design.
 
+After going through the experience with Craigslist, I moved onto Ebay. I had a much easier time finding my way to a Nintendo Switch on this website. The searchbar was at the top, and there were actually pictures on the homepage. In the searchbar, when I typed in "Nintendo Switch," there was an option to search specifically in Video Game Consoles.
 
-![image](https://user-images.githubusercontent.com/60239910/116825196-06ca1e80-ab43-11eb-9a4b-8b15afd387c8.png)
+![image](https://user-images.githubusercontent.com/60239910/116839396-208d5500-ab87-11eb-9f9f-b982d726ce8c.png)
+
+I hit search, and there were many more options for me to choose from. There were options to refine my search such as "Buy It Now" and putting in a certain price range. I inputted the "Buy It Now" filter as well as a price range from $250-$310. Within a couple of minutes I found a switch that I could get shipped to me at MSRP.
+
+![image](https://user-images.githubusercontent.com/60239910/116839762-60087100-ab88-11eb-85be-df34e9b5eed1.png)
+
